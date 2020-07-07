@@ -1,4 +1,5 @@
 <?php
+
 namespace SilverStripe\IFrame;
 
 use Page;

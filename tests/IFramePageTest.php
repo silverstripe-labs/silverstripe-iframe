@@ -1,4 +1,5 @@
 <?php
+
 namespace SilverStripe\IFrame\Tests;
 
 use SilverStripe\Core\Config\Config;
